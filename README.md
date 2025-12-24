@@ -5,7 +5,7 @@ This repository contains the initial raw dataset used in the study:
 "Deep Learning for Optimizing Virtual Resources Allocation in MEC-based UAV Environments"
 
 # Content
-- UAV mobility and position data
+- UAV mobility and position data ( OpenSky and Au-air)
 - MEC server resource information
 - Task offloading requests
 
